@@ -1,0 +1,57 @@
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\bin\Debug\net6.0-windows\comrapidas.exe
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\bin\Debug\net6.0-windows\comrapidas.deps.json
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\bin\Debug\net6.0-windows\comrapidas.runtimeconfig.json
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\bin\Debug\net6.0-windows\comrapidas.dll
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\bin\Debug\net6.0-windows\comrapidas.pdb
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.Form1.resources
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.Properties.Resources.resources
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.dll
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\obj\Debug\net6.0-windows\refint\comrapidas.dll
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.pdb
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documentos\Proyectos visual studio\comrapidas\comrapidas\obj\Debug\net6.0-windows\ref\comrapidas.dll
+F:\comrapidas\comrapidas\bin\Debug\net6.0-windows\comrapidas.exe
+F:\comrapidas\comrapidas\bin\Debug\net6.0-windows\comrapidas.deps.json
+F:\comrapidas\comrapidas\bin\Debug\net6.0-windows\comrapidas.runtimeconfig.json
+F:\comrapidas\comrapidas\bin\Debug\net6.0-windows\comrapidas.dll
+F:\comrapidas\comrapidas\bin\Debug\net6.0-windows\comrapidas.pdb
+F:\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.csproj.AssemblyReference.cache
+F:\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.Form1.resources
+F:\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.pagar.resources
+F:\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.Properties.Resources.resources
+F:\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.csproj.GenerateResource.cache
+F:\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.GeneratedMSBuildEditorConfig.editorconfig
+F:\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.AssemblyInfoInputs.cache
+F:\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.AssemblyInfo.cs
+F:\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.csproj.CoreCompileInputs.cache
+F:\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.dll
+F:\comrapidas\comrapidas\obj\Debug\net6.0-windows\refint\comrapidas.dll
+F:\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.pdb
+F:\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.genruntimeconfig.cache
+F:\comrapidas\comrapidas\obj\Debug\net6.0-windows\ref\comrapidas.dll
+F:\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.password.resources
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\bin\Debug\net6.0-windows\comrapidas.exe
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\bin\Debug\net6.0-windows\comrapidas.deps.json
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\bin\Debug\net6.0-windows\comrapidas.runtimeconfig.json
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\bin\Debug\net6.0-windows\comrapidas.dll
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\bin\Debug\net6.0-windows\comrapidas.pdb
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.password.resources
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.Form1.resources
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.pagar.resources
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.Properties.Resources.resources
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.csproj.GenerateResource.cache
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.AssemblyInfo.cs
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.dll
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\obj\Debug\net6.0-windows\refint\comrapidas.dll
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.pdb
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\obj\Debug\net6.0-windows\comrapidas.genruntimeconfig.cache
+C:\Users\sebas\Documents\Proyectos Programación\Trabajos finales\comrapidas\comrapidas\comrapidas\obj\Debug\net6.0-windows\ref\comrapidas.dll
